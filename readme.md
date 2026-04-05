@@ -6,10 +6,10 @@ Please fing a full sheet here: https://docs.google.com/spreadsheets/d/1zemKYo95b
 ![NF1](./p1_nf_1.png)
 
 ## NF2
-![NF2](./p1_nf_2.png)
+![NF2](./p2_nf_2.png)
 
 ## NF3
-![NF3](./p2_nf_3.png)
+![NF3](./p3_nf_3.png)
 
 ## ER
 ![ER](./p4_ER.png)
